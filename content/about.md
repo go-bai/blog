@@ -7,6 +7,13 @@ weight: 50
 
 ---
 
-gobai's blog
-一个使用golang的小学生
+> golang服务端开发工程师，职场新人
+喜欢一些“不务正业”的技术
+
+目前在学的内容
+
+- go 语言圣经
+- reverse proxy 相关技术
+- react 官方文档
+
 
