@@ -13,7 +13,7 @@
       <pubDate>Wed, 10 Nov 2021 11:59:41 +0800</pubDate>
       
       <guid>https://blog.gocn.top/post/interval-overlap-problem/</guid>
-      <description>给定一个左闭右开连续区间 [L,R), 判断与另一个左闭右开连续区间是否有重合部分。 首先对于两个连续区间有重合部分的状态有四种，没重合部分的状态有两种，不</description>
+      <description>问题描述 给定一个左闭右开连续区间 [L,R), 判断与另一个左闭右开连续区间是否有重合部分。 问题分析 首先对于两个连续区间有重合部分的状态有四种，没重合部分</description>
     </item>
     
   </channel>
