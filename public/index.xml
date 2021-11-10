@@ -13,16 +13,16 @@
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
       <guid>https://blog.gocn.top/about/</guid>
-      <description>gobai&amp;rsquo;s blog 一个使用golang的小学生</description>
+      <description>golang服务端开发工程师，职场新人 喜欢一些“不务正业”的技术 目前在学的内容 go 语言圣经 reverse proxy 相关技术 react 官方文档</description>
     </item>
     
     <item>
-      <title>Interval Overlap Problem</title>
+      <title>区间重叠问题</title>
       <link>https://blog.gocn.top/post/interval-overlap-problem/</link>
       <pubDate>Wed, 10 Nov 2021 11:59:41 +0800</pubDate>
       
       <guid>https://blog.gocn.top/post/interval-overlap-problem/</guid>
-      <description>优雅处理区间重叠问题</description>
+      <description>给定一个左闭右开连续区间 [L,R), 判断与另一个左闭右开连续区间是否有重合部分。 首先对于两个连续区间有重合部分的状态有四种，没重合部分的状态有两种，不</description>
     </item>
     
   </channel>
