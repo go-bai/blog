@@ -1,5 +1,4 @@
-# baseURL = "https://blog.gocn.top"
-baseURL = "localhost:1313"
+baseURL = "https://blog.gocn.top"
 languageCode = "en"
 defaultContentLanguage = "en"                             # en / zh-cn / ... (This field determines which i18n file to use)
 title = "gobai's blog"
