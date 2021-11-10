@@ -1,20 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Even - A super concise theme for Hugo</title>
-    <link>https://pyai.top/blog/</link>
-    <description>Recent content on Even - A super concise theme for Hugo</description>
+    <title>gobai&#39;s blog</title>
+    <link>https://blog.gocn.top/</link>
+    <description>Recent content on gobai&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://pyai.top/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://blog.gocn.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>https://pyai.top/blog/about/</link>
+      <link>https://blog.gocn.top/about/</link>
       <pubDate>Sun, 20 Aug 2017 21:38:52 +0800</pubDate>
       
-      <guid>https://pyai.top/blog/about/</guid>
-      <description>Hugo is a static site engine written in Go.
-It makes use of a variety of open source projects including:
- Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
+      <guid>https://blog.gocn.top/about/</guid>
+      <description>gobai&amp;rsquo;s blog 一个使用golang的小学生</description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>https://blog.gocn.top/post/</link>
+      <pubDate>Wed, 10 Nov 2021 00:22:24 +0800</pubDate>
+      
+      <guid>https://blog.gocn.top/post/</guid>
+      <description>这是 post</description>
     </item>
     
   </channel>
