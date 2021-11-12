@@ -6,7 +6,7 @@
     <description>Recent content on gobai&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 10 Nov 2021 11:59:41 +0800</lastBuildDate><atom:link href="https://blog.gocn.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 12 Nov 2021 15:36:19 +0800</lastBuildDate><atom:link href="https://blog.gocn.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://blog.gocn.top/about/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://blog.gocn.top/about/</guid>
       <description>golang服务端开发工程师，职场新人 喜欢一些“不务正业”的技术 目前在学的内容 go 语言圣经 reverse proxy 相关技术 react 官方文档</description>
+    </item>
+    
+    <item>
+      <title>Git Tricks</title>
+      <link>https://blog.gocn.top/post/git-tricks/</link>
+      <pubDate>Fri, 12 Nov 2021 15:36:19 +0800</pubDate>
+      
+      <guid>https://blog.gocn.top/post/git-tricks/</guid>
+      <description>目前对git的理解程度较低，只是能应付日常开发，所以写出来的水平有限。 暂存当前代码改动 场景是在一个git branch写了不少代码以后发现写错</description>
     </item>
     
     <item>

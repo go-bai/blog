@@ -1,7 +1,7 @@
 ---
 title: "Git Tricks"
 date: 2021-11-12T15:36:19+08:00
-draft: true
+draft: false
 ---
 
 目前对git的理解程度较低，只是能应付日常开发，所以写出来的水平有限。

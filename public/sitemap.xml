@@ -9,15 +9,22 @@
   </url>
   
   <url>
+    <loc>https://blog.gocn.top/post/git-tricks/</loc>
+    <lastmod>2021-11-12T15:36:19+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
     <loc>https://blog.gocn.top/</loc>
-    <lastmod>2021-11-10T11:59:41+08:00</lastmod>
+    <lastmod>2021-11-12T15:36:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://blog.gocn.top/post/</loc>
-    <lastmod>2021-11-10T11:59:41+08:00</lastmod>
+    <lastmod>2021-11-12T15:36:19+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
