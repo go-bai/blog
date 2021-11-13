@@ -17,3 +17,5 @@ weight: 50
 - react 官方文档
 
 
+[Readings in Database Systems, 5th Edition](http://www.redbook.io/)
+
