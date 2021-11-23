@@ -5,9 +5,9 @@ draft: false
 tags: ["golang"]
 ---
 
-### 编译经典 `helloworld` 程序
+## 编译经典程序
 
-#### 程序代码
+### 程序代码
 
 ```go
 package main
@@ -19,14 +19,14 @@ func main() {
 }
 ```
 
-#### 编译环境
+### 编译环境
 
 ```bash
 $ go version
 go version go1.16.7 linux/amd64
 ```
 
-### 0. 直接编译
+## 0. 直接编译
 
 ```
 $ go build -o helloword main.go
@@ -34,7 +34,9 @@ $ ls -lh helloword
 -rwxrwxr-x 1 gobai gobai 1.9M Nov 23 09:34 helloword
 ```
 
-### 1. 除去编译时带的符号表和调试信息
+## 1. 修改编译选项
+
+除去编译时带的符号表和调试信息
 
 ```bash
 $ go build -ldflags="-s -w" -o helloword main.go
@@ -42,7 +44,9 @@ $ ls -lh helloword
 -rwxrwxr-x 1 gobai gobai 1.3M Nov 23 09:38 helloword
 
 ```
-### 2. 对直接编译出的二进制使用 `upx` 进一步压缩
+## 2. 使用 `UPX`
+
+对直接编译出的二进制使用 [upx](https://github.com/upx/upx) 进一步压缩
 
 ```bash
 $ go build -o helloword main.go
@@ -60,7 +64,7 @@ $ ls -lh helloword
 -rwxrwxr-x 1 gobai gobai 1.1M Nov 23 09:40 helloword
 ```
 
-### 1和2组合使用
+## 1和2组合使用
 
 ```bash
 $ go build -ldflags="-s -w" -o helloword main.go && upx -9 helloword
