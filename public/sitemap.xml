@@ -10,27 +10,41 @@
   
   <url>
     <loc>https://blog.gocn.top/</loc>
-    <lastmod>2021-11-22T10:29:02+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://blog.gocn.top/tags/golang/</loc>
-    <lastmod>2021-11-22T10:29:02+08:00</lastmod>
+    <lastmod>2021-11-24T21:45:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://blog.gocn.top/post/</loc>
-    <lastmod>2021-11-22T10:29:02+08:00</lastmod>
+    <lastmod>2021-11-24T21:45:54+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://blog.gocn.top/tags/</loc>
+    <lastmod>2021-11-24T21:45:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.gocn.top/tags/vim/</loc>
+    <lastmod>2021-11-24T21:45:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.gocn.top/post/vim-tricks/</loc>
+    <lastmod>2021-11-24T21:45:54+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.gocn.top/tags/golang/</loc>
     <lastmod>2021-11-22T10:29:02+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

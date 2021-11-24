@@ -6,7 +6,7 @@
     <description>Recent content on gobai&#39;s blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 22 Nov 2021 10:29:02 +0800</lastBuildDate><atom:link href="https://blog.gocn.top/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Nov 2021 21:45:54 +0800</lastBuildDate><atom:link href="https://blog.gocn.top/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://blog.gocn.top/about/</link>
@@ -14,6 +14,15 @@
       
       <guid>https://blog.gocn.top/about/</guid>
       <description>golang服务端开发工程师，职场新人 喜欢一些“不务正业”的技术 目前在学的内容 go 语言圣经 reverse proxy 相关技术 react 官方文档 Readings in Database Systems, 5th Edition</description>
+    </item>
+    
+    <item>
+      <title>Vim Tricks</title>
+      <link>https://blog.gocn.top/post/vim-tricks/</link>
+      <pubDate>Wed, 24 Nov 2021 21:45:54 +0800</pubDate>
+      
+      <guid>https://blog.gocn.top/post/vim-tricks/</guid>
+      <description>批量替换 批量替换 1.1.1.1 为 2.2.2.2 1 :%s+1.1.1.1+2.2.2.2</description>
     </item>
     
     <item>
