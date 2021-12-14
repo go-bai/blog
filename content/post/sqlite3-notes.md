@@ -6,7 +6,7 @@ tags: ["sqlite3"]
 ---
 
 
-### rollback日志模式下的五种锁状态介绍
+## rollback日志模式下的五种锁状态介绍
 
 - `UNLOCKED`
     - 没锁状态
@@ -23,9 +23,9 @@ tags: ["sqlite3"]
 
 所以总结一下就是读读可并发，读写不可并发，写写不可并发。
 
-### 优化篇
+## 优化篇
 
-#### `SQLITE_BUSY` 问题
+### `SQLITE_BUSY` 问题
 
 看到上面这么多锁不能共存的情况应该会想到，冲突会很频繁，如 `EXCLUSIVE` 锁存在时不允许其他连接获取任何锁，当其他进程需要读写操作时就会获取锁失败，立即报 `SQLITE_BUSY` 错误。
 
@@ -38,7 +38,7 @@ tags: ["sqlite3"]
 
 Shared cache mode 支持 table level locks，暂时还没研究。
 
-#### 针对写操作慢的问题
+### 针对写操作慢的问题
 
 解决方案：将多个写操作放入一个事务里执行。sqlite官方[FAQ](https://www.sqlite.org/faq.html#q19)对其解释如下
 
