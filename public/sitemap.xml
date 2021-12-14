@@ -10,21 +10,35 @@
   
   <url>
     <loc>https://blog.gocn.top/</loc>
-    <lastmod>2021-11-24T21:45:54+08:00</lastmod>
+    <lastmod>2021-12-14T10:33:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://blog.gocn.top/post/</loc>
-    <lastmod>2021-11-24T21:45:54+08:00</lastmod>
+    <lastmod>2021-12-14T10:33:14+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.gocn.top/tags/sqlite3/</loc>
+    <lastmod>2021-12-14T10:33:14+08:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://blog.gocn.top/post/sqlite3-notes/</loc>
+    <lastmod>2021-12-14T10:33:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://blog.gocn.top/tags/</loc>
-    <lastmod>2021-11-24T21:45:54+08:00</lastmod>
+    <lastmod>2021-12-14T10:33:14+08:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
