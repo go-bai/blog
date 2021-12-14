@@ -105,3 +105,5 @@ ok      gocn/sqlite-test        38.372s
 - [官方文档-五种锁状态介绍](https://www.sqlite.org/lockingv3.html)
 - [官方FAQ](https://www.sqlite.org/faq.html#q19)
 - [Understanding SQLITE_BUSY](https://activesphere.com/blog/2018/12/24/understanding-sqlite-busy#fn:1)
+- [github.com/mattn/go-sqlite3](https://github.com/mattn/go-sqlite3/blob/3392062c729d77820afc1f5cae3427f0de39e954/sqlite3.go#L919)
+- [modernc.org/sqlite](https://gitlab.com/cznic/sqlite/-/commit/e3be4b029c0e128faa7bfb5e06f67c8fda33db4a#bb99b1baec3b0c8f02dc4e87b04926bc377fd8db_803_802)
